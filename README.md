@@ -9,11 +9,11 @@ The slides will be available soon.
 Estudiantes de la UIB
 =====================
 
-Si teneis cualquier duda intentando usar los ejemplos del proyecto, por favor escribir
-y preguntar, estaré encantado de contestar y actualizar la documentación para que quede
+Si tenéis cualquier duda intentando usar los ejemplos del proyecto, por favor escribid
+y preguntad, estaremos encantados de contestar y actualizar la documentación para que quede
 más claro.
 
-Podeis contactar conmigo a través de email developers@habitissimo.com
+Podéis contactar con nosotros a través de email developers@habitissimo.com
 
 
 Usage
